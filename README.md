@@ -60,7 +60,7 @@ docker-compose up
 ```
 docker network connect kafka_docker_example_net spark-up-spark-master-1
 ```
-## API Reference of Quora QnA Service
+## API Reference of QnA Service
 
 #### Get posts of a user
 
